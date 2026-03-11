@@ -3,8 +3,7 @@
 A pixel-perfect clone of [LokSujag.com](https://loksujag.com) — a Pakistani digital news media platform. Built with React and featuring full bilingual support (English/Urdu).
 
 ## 🌐 Live Demo
-[Coming Soon]
-
+https://reactjs-loksujag-clone.vercel.app/
 ## ✨ Features
 
 - 🌍 **Bilingual Support** — Seamless switching between English and Urdu
