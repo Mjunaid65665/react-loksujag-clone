@@ -109,7 +109,7 @@ const { t, i18n } = useTranslation();
 
 
 ## 👨‍💻 Author
-Your Name — [@yourgithub](https://github.com/YOUR_USERNAME)
+Your Name — 
 
 ## 📄 License
 This project is for educational purposes only.
