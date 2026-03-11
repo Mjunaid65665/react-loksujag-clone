@@ -109,7 +109,7 @@ const { t, i18n } = useTranslation();
 
 
 ## 👨‍💻 Author
-Your Name — 
+@Mjunaid65665  https://github.com/Mjunaid65665
 
 ## 📄 License
 This project is for educational purposes only.
