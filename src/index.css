@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+body {
+  background-color: #ffffff;
+  font-family: Arial, sans-serif;
+  overflow-x: hidden;
+  padding-top: 70px;
+}
+
+/* scrollbar width */
+
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* scrollbar color */
+
+::-webkit-scrollbar-thumb {
+  /* height: 10px; */
+  background: #ff6a00;
+}
+
+/* track */
+
+::-webkit-scrollbar-track {
+  background: #c6c6c6;
+}
+[dir="rtl"] {
+  font-family: 'Noto Naskh Arabic', serif;
+  line-height: 1.8;
+  font-size: 1rem;
+}
+
+[dir="rtl"] svg {
+  font-size: initial !important;
+  line-height: initial !important;
+}

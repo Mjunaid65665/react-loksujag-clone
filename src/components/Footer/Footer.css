@@ -1,0 +1,91 @@
+.footer-main {
+  background: #ffe0cc;
+  padding: 130px 0;
+}
+.row {
+  display: flex;
+}
+/* logo */
+.footer-logo {
+  width: 160px;
+  height: 70px;
+  margin-bottom: 20px;
+}
+.footer-left {
+  height: 100%;
+}
+/* text */
+.footer-text {
+  font-size: 15px;
+  line-height: 1.7;
+  margin-bottom: 25px;
+  color: #000000;
+  line-height: 1.9rem !important;
+  font-size: 18px;
+  font-weight: 500;
+}
+/* social icons */
+.social-icons svg {
+  width: 35px;
+  height: 35px;
+  font-size: 22px;
+  margin-right: 22px;
+  color: #ff6a00;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.social-icons svg:hover {
+  transform: scale(1.2);
+}
+/* links */
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+}
+.footer-links li {
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 16px;
+  color: #000000;
+  font-weight: 550;
+  align-items: baseline;
+}
+.footer-links li:hover {
+  color: #ff6a00;
+}
+/* newsletter */
+.footer-newsletter h4 {
+  color: #ff6a00;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.footer-newsletter p {
+  color: #000000;
+  font-size: 16px;
+}
+.newsletter-box {
+  display: flex;
+  margin-top: 15px;
+}
+.newsletter-box input {
+  flex: 1;
+  padding: 0px 12px;
+  border: 1px solid #ccc;
+  outline: none;
+  height: 60px;
+}
+.newsletter-box button {
+  background: #ff6a00;
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  font-weight: 600;
+}
+/* bottom bar */
+.footer-bottom {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 24px 0;
+  font-size: 14px;
+}
